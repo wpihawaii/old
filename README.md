@@ -1,11 +1,15 @@
 # wpihawaii.github.io
 
+[ホーム](https://wpihawaii.github.io/)
+
 Home > https://wpihawaii.github.io/
 
 All Pages > 
 
 https://wpihawaii.github.io/condoprice.html
+
 https://wpihawaii.github.io/index.html
+
 https://wpihawaii.github.io/natu.html
 https://wpihawaii.github.io/page1.html
 https://wpihawaii.github.io/page10.html
