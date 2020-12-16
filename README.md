@@ -6,62 +6,62 @@ All Pages >
 
 ・ハワイ　コンドミニアム　月、週、料金表 (https://wpihawaii.github.io/condoprice.html)
 
-https://wpihawaii.github.io/index.html
+・トップページ (https://wpihawaii.github.io/index.html)
 
-https://wpihawaii.github.io/natu.html
+・夏休みスペシャル!! (https://wpihawaii.github.io/natu.html)
 
-https://wpihawaii.github.io/page1.html
+・アメリカ永住権（ビザ）の取得の手伝い (https://wpihawaii.github.io/page1.html)
 
-https://wpihawaii.github.io/page10.html
+・ウェディング (https://wpihawaii.github.io/page10.html)
 
-https://wpihawaii.github.io/page11.html
+・World person international co.Ltd (https://wpihawaii.github.io/page11.html)
 
-https://wpihawaii.github.io/page12.html
+・ハワイ　ナイト情報 (https://wpihawaii.github.io/page12.html)
 
-https://wpihawaii.github.io/page2.html
+・ハワイでの住宅の購入、賃貸等のお手伝い　　不動産 (https://wpihawaii.github.io/page2.html)
 
-https://wpihawaii.github.io/page3.html
+・ハワイのビジネスの諸問題のお手伝い (https://wpihawaii.github.io/page3.html)
 
-https://wpihawaii.github.io/page4.html
+・ハワイでの出産のお手伝い (https://wpihawaii.github.io/page4.html)
 
-https://wpihawaii.github.io/page5.html
+・ハワイでの留学のお手伝い (https://wpihawaii.github.io/page5.html)
 
-https://wpihawaii.github.io/page6.html
+・ハワイ　ホームステイのお手伝い (https://wpihawaii.github.io/page6.html)
 
-https://wpihawaii.github.io/page7.html
+・ハワイでの観光のお手伝い (https://wpihawaii.github.io/page7.html)
 
-https://wpihawaii.github.io/page8.html
+・ハワイでの穴場探し (https://wpihawaii.github.io/page8.html)
 
-https://wpihawaii.github.io/page9.html
+・個人輸入についてのお手伝い (https://wpihawaii.github.io/page9.html)
 
-https://wpihawaii.github.io/r.enquete.html
+・お問い合わせ (https://wpihawaii.github.io/r.enquete.html)
 
-https://wpihawaii.github.io/r.index.html
+・夏休みスペシャル!!　TOPページ (https://wpihawaii.github.io/r.index.html)
 
-https://wpihawaii.github.io/r.page1.html
+・留学の種類 (https://wpihawaii.github.io/r.page1.html)
 
-https://wpihawaii.github.io/r.page2.html
+・提携先一部 (https://wpihawaii.github.io/r.page2.html)
 
-https://wpihawaii.github.io/r.page3.html
+・留学料金 (https://wpihawaii.github.io/r.page3.html)
 
-https://wpihawaii.github.io/sebu.html
+・ＷＰＩ　Ｃｏ’ｌｔｄ　セブ島　支店 (https://wpihawaii.github.io/sebu.html)
 
-https://wpihawaii.github.io/w.index.mixi.html
+・facebook (https://wpihawaii.github.io/w.index.mixi.html)
 
-https://wpihawaii.github.io/w.index2.html
+・ＷＰＩ　ハワイ オプショナルツアー 一覧表 (https://wpihawaii.github.io/w.index2.html)
 
-https://wpihawaii.github.io/w.index3.html
+・ハワイオプショナルツアーＢＥＳＴ５ (https://wpihawaii.github.io/w.index3.html)
 
-https://wpihawaii.github.io/w.index4.html
+・WPI 夕方から夜のお勧めツアー (https://wpihawaii.github.io/w.index4.html)
 
-https://wpihawaii.github.io/w.index5.html
+・ＷＰＩ　カルフォルニア　支店 (https://wpihawaii.github.io/w.index5.html)
 
-https://wpihawaii.github.io/w.index6.html
+・ハワイ島　マウイ島　カウアイ島　一日観光。 (https://wpihawaii.github.io/w.index6.html)
 
-https://wpihawaii.github.io/w.newtour.html
+・ＷＰＩ　の　新しいツアー (https://wpihawaii.github.io/w.newtour.html)
 
-https://wpihawaii.github.io/w.old.html
+・リタイヤ後「ハワイ」で暮らす (https://wpihawaii.github.io/w.old.html)
 
-https://wpihawaii.github.io/w.saiyasune.html
+・ＷＰＩ　業界　最安値　商品 (https://wpihawaii.github.io/w.saiyasune.html)
 
-https://wpihawaii.github.io/w.title.html
+・ハワイでわがまま言ってください。 (https://wpihawaii.github.io/w.title.html)
