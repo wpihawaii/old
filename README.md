@@ -4,7 +4,7 @@ Home > https://wpihawaii.github.io/
 
 All Pages > 
 
-https://wpihawaii.github.io/condoprice.html
+・ハワイ　コンドミニアム　月、週、料金表 (https://wpihawaii.github.io/condoprice.html)
 
 https://wpihawaii.github.io/index.html
 
